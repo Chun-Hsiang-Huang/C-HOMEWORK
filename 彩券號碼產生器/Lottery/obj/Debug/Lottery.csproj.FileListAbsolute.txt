@@ -1,0 +1,34 @@
+c:\users\iii\documents\visual studio 2015\Projects\Lottery\Lottery\bin\Debug\Lottery.exe.config
+c:\users\iii\documents\visual studio 2015\Projects\Lottery\Lottery\bin\Debug\Lottery.exe
+c:\users\iii\documents\visual studio 2015\Projects\Lottery\Lottery\bin\Debug\Lottery.pdb
+c:\users\iii\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+c:\users\iii\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+c:\users\iii\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+c:\users\iii\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+c:\users\iii\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.exe
+c:\users\iii\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.pdb
+c:\users\iii\documents\visual studio 2015\Projects\Lottery\Lottery\obj\Debug\Lottery.T539.resources
+E:\Lottery\Lottery\bin\Debug\Lottery.exe.config
+E:\Lottery\Lottery\obj\Debug\Lottery.exe
+E:\Lottery\Lottery\obj\Debug\Lottery.pdb
+E:\Lottery\Lottery\bin\Debug\Lottery.exe
+E:\Lottery\Lottery\bin\Debug\Lottery.pdb
+E:\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+E:\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+E:\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+E:\Lottery\Lottery\obj\Debug\Lottery.T539.resources
+E:\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+E:\Lottery\Lottery\obj\Debug\Lottery.BH649.resources
+E:\Lottery\Lottery\obj\Debug\Lottery.Bingo20.resources
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\obj\Debug\Lottery.exe
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\bin\Debug\Lottery.exe
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\obj\Debug\Lottery.BH649.resources
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\obj\Debug\Lottery.Bingo20.resources
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\obj\Debug\Lottery.T539.resources
+C:\Users\Michael\Google 雲端硬碟\資策會\Projects\彩券號碼產生器HW6\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
